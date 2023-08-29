@@ -11,7 +11,7 @@ const fileInput = document.getElementById('fileInput');
         formData.append('image_file', image);
         formData.append('size', 'auto');
 
-        const apiKey = '5c0d5727cbd506a46b654b91f1c8187445a4372e';
+        const apiKey = '697792feca837a25ec6ef778d44a20361129d4ec';
         // const apiKey = '2LiDofgci7QP7yfy18A5fZ5k';
 
 
